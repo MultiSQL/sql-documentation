@@ -3,6 +3,8 @@
 - [Introduction](./introduction.md)
 - [Download](./download.md)
 ---
+- [How to]()
+  - [Change databases]()
 - [Statements]()
 	- [SELECT](./statements/SELECT.md)
 	- [INSERT]()
