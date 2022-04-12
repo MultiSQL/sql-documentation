@@ -9,7 +9,7 @@
 	- [SELECT](./statements/SELECT.md)
 	- [VALUES](./statements/VALUES.md)
 	- [INSERT](./statements/INSERT.md)
-	- [INSERT](./statements/DELETE.md)
+	- [DELETE](./statements/DELETE.md)
 	- [CREATE]()
 - [Functions](./functions.md)
 	- [CAST](./functions/CAST.md)
