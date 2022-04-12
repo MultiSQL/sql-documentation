@@ -1,4 +1,8 @@
 # SELECT
+Returns all data requested.
+
+Fundamentally, gets data from tables to return.
+Practically, can manipulate data greatly.
 
 
 ## Syntax

@@ -8,6 +8,7 @@
 	- [INSERT]()
 	- [CREATE]()
 	- [DELETE]()
+	- [VALUES]()
 - [Functions](./functions.md)
 	- [CAST](./functions/CAST.md)
 	- [CONVERT]()
@@ -30,5 +31,6 @@
 	- [Operation](./concepts/operation.md)
 	- [Column](./concepts/column.md)
 	- [Table]()
+	- [Index]()
 ---
 - [Rust Documentation](./rustdoc.md)
