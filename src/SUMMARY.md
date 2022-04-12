@@ -10,7 +10,7 @@
 	- [VALUES](./statements/VALUES.md)
 	- [INSERT](./statements/INSERT.md)
 	- [DELETE](./statements/DELETE.md)
-	- [CREATE]()
+	- [CREATE](./statements/CREATE.md)
 - [Functions](./functions.md)
 	- [CAST](./functions/CAST.md)
 	- [CONVERT]()

@@ -2,7 +2,7 @@
 
 
 ## Syntax
-- VALUES
+- `VALUES`
 - ([expression](/concepts/expression.md) \*\[, [expression](/concepts/expression.md)\])
 - \*\[([expression](/concepts/expression.md) \*\[, [expression](/concepts/expression.md)\])\]
 
