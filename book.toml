@@ -1,0 +1,6 @@
+[book]
+authors = ["Kyran Gostelow"]
+language = "en"
+multilingual = false
+src = "src"
+title = "MultiSQL SQL Documentation"
