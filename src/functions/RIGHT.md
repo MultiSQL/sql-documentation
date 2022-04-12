@@ -9,7 +9,7 @@ LEFT($1, $2)
 ## Parameters
 
 ### `$1`
-Should evaluate to a [string](./other/types.md#text)
+Should evaluate to a [string](/other/types.md#text)
 
 ### `$2`
-Should evaluate to an [integer](./other/types.md#unsigned_integer)
+Should evaluate to an [integer](/other/types.md#unsigned_integer)

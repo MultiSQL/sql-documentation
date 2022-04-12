@@ -9,7 +9,7 @@ IIF($1, $2, $3)
 ## Parameters
 
 ### `$1`
-Should evaluate to a [boolean](./other/types.md#boolean)
+Should evaluate to a [boolean](/other/types.md#boolean)
 
 ### `$2`
 May be anything

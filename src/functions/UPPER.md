@@ -9,4 +9,4 @@ UPPER($1)
 ## Parameters
 
 ### `$1`
-Should evaluate to a [string](./other/types.md#text)
+Should evaluate to a [string](/other/types.md#text)
