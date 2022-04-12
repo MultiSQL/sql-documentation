@@ -1,6 +1,8 @@
 # Summary
 
 - [Introduction](./introduction.md)
+- [Download](./download.md)
+---
 - [Statements]()
 	- [SELECT](./statements/SELECT.md)
 	- [INSERT]()
