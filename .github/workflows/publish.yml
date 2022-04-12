@@ -26,4 +26,4 @@ jobs:
         with:
           personal_token: ${{ secrets.MDBOOK_DEPLOY_TOKEN }}
           external_repository: MultiSQL/multisql.github.io
-          publish_dir: ./
+          publish_dir: ./book
